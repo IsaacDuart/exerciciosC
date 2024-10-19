@@ -1,8 +1,8 @@
 
-# Lista de Exercícios em C - IFCE Maracanaú
+# Lista de Exercícios em C
 
 Introdução
-Bem-vindo ao repositório da lista de exercícios de programação em C para a disciplina de Laboratório de Programação, sob a orientação do Prof. Daniel Ferreira. Este repositório contém uma série de exercícios que abordam conceitos fundamentais da linguagem C.
+Bem-vindo ao repositório da lista de exercícios de programação em C para a disciplina de Laboratório de Programação. Este repositório contém uma série de exercícios que abordam conceitos fundamentais da linguagem C.
 
 Exercícios
 
